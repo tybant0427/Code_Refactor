@@ -10,3 +10,4 @@ Changes Made to HTML and CSS:
   - Added alt text to each image that is on the webpage for accessibility reasons.
   - Gave the webpage a nice fitting title.
   - Gave the webpage a proper footer rather than using div elements for that as well.
+  - Fixed broken link for search-engine-optimization by adding the missing id.
